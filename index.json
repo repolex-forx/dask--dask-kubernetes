@@ -1,0 +1,11 @@
+{
+  "org": "dask",
+  "repo": "dask-kubernetes",
+  "versions": [
+    {
+      "commit": "0b02f631764c07c5f023e3b100ad2f13d93c556d",
+      "tag": "",
+      "parsed_at": "2026-10-17T04:07:08.981312+00:00"
+    }
+  ]
+}
