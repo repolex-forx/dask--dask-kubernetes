@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/dask/dask-kubernetes/commit/0b02f631764c07c5f023e3b100ad2f13d93c556d",
       "git:hexsha": "0b02f631764c07c5f023e3b100ad2f13d93c556d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T04:07:08.980521+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dask/dask-kubernetes/commit/8614c0091f57425abf9a734ba81dd62c1b9d8dba",
